@@ -6,9 +6,7 @@ build/
 !**/src/test/**/build/
 
 ###
-./MessagingRabbitmq/src/main/resources/application.yml
-./producer/src/main/resources/application.yml
-./receiver/src/main/resources/application.yml
+*.yml
 ### STS ###
 .apt_generated
 .classpath
